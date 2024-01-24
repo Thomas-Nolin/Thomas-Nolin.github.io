@@ -1,0 +1,887 @@
+{
+  "characters": [
+    {
+      "name": "A.K.I.",
+      "gender": "female",
+      "debutGame": "SF6",
+      "archetype": [
+        "rushdown",
+        "setplay",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Abel",
+      "gender": "male",
+      "debutGame": "SF4",
+      "archetype": [
+        "grappler",
+        "brawler"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Abigail",
+      "gender": "male",
+      "debutGame": "SF5",
+      "archetype": [
+        "brawler",
+        "dominator"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Adon",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "rushdown"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Akira",
+      "gender": "female",
+      "debutGame": "SF5",
+      "archetype": [
+        "rushdown",
+        "setplay",
+        "mix-up",
+        "resource"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Akuma",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "shoto",
+        "glass-canon",
+        "rushdown"
+      ],
+      "appearances": 6
+    },
+    {
+      "name": "Alex",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "grappler",
+        "brawler"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Balrog",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "rushdown",
+        "dominator"
+      ],
+      "appearances": 4
+    },
+    {
+      "name": "Birdie",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "brawler",
+        "footsies"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Blanka",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "rushdown",
+        "setplay",
+        "resource"
+      ],
+      "appearances": 5
+    },
+    {
+      "name": "C. Viper",
+      "gender": "female",
+      "debutGame": "SF4",
+      "archetype": [
+        "rushdown",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Cammy",
+      "gender": "female",
+      "debutGame": "SF2",
+      "archetype": [
+        "rushdown"
+      ],
+      "appearances": 5
+    },
+    {
+      "name": "Chun-Li",
+      "gender": "female",
+      "debutGame": "SF2",
+      "archetype": [
+        "footsies",
+        "stance"
+      ],
+      "appearances": 6
+    },
+    {
+      "name": "Cody",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "rushdown",
+        "pressurer"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "Dan",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "shoto",
+        "pressurer"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "Decapre",
+      "gender": "female",
+      "debutGame": "SF4",
+      "archetype": [
+        "rushdown",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Dee Jay",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "rushdown",
+        "dominator"
+      ],
+      "appearances": 4
+    },
+    {
+      "name": "Dhalsim",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "zoner",
+        "setplay"
+      ],
+      "appearances": 5
+    },
+    {
+      "name": "Dudley",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "rushdown"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "E. Honda",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "brawler",
+        "turtle"
+      ],
+      "appearances": 5
+    },
+    {
+      "name": "Eagle",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "footsies"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Ed",
+      "gender": "male",
+      "debutGame": "SF5",
+      "archetype": [
+        "rushdown",
+        "setplay",
+        "pressurer"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "El Fuerte",
+      "gender": "male",
+      "debutGame": "SF4",
+      "archetype": [
+        "rushdown",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Elena",
+      "gender": "female",
+      "debutGame": "SF3",
+      "archetype": [
+        "footsies",
+        "turtle",
+        "rushdown"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Eleven",
+      "gender": "other",
+      "debutGame": "SF5",
+      "archetype": [
+        "random"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Evil Ryu",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "shoto",
+        "glass-canon"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "F.A.N.G",
+      "gender": "male",
+      "debutGame": "SF5",
+      "archetype": [
+        "rushdown",
+        "setplay",
+        "pressurer"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Falke",
+      "gender": "female",
+      "debutGame": "SF5",
+      "archetype": [
+        "zoner",
+        "setplay"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Fei Long",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "rushdown",
+        "footsies"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "G",
+      "gender": "male",
+      "debutGame": "SF5",
+      "archetype": [
+        "rushdown",
+        "resource"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Gen",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "rushdown",
+        "stance"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Gill",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "zoner",
+        "mix-up",
+        "setplay"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Gouken",
+      "gender": "male",
+      "debutGame": "SF4",
+      "archetype": [
+        "zoner"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Guile",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "zoner",
+        "turtle"
+      ],
+      "appearances": 5
+    },
+    {
+      "name": "Guy",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "rushdown",
+        "mix-up"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Hakan",
+      "gender": "male",
+      "debutGame": "SF4",
+      "archetype": [
+        "grappler",
+        "brawler",
+        "resource"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Hugo",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "brawler",
+        "grappler"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Ibuki",
+      "gender": "female",
+      "debutGame": "SF3",
+      "archetype": [
+        "rushdown",
+        "mix-up",
+        "setplay",
+        "resource"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "Ingrid",
+      "gender": "female",
+      "debutGame": "Alpha",
+      "archetype": [
+        "rushdown"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "JP",
+      "gender": "male",
+      "debutGame": "SF6",
+      "archetype": [
+        "zoner",
+        "setplay",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Jamie",
+      "gender": "male",
+      "debutGame": "SF6",
+      "archetype": [
+        "rushdown",
+        "resource",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Juli",
+      "gender": "female",
+      "debutGame": "Alpha",
+      "archetype": [
+        "rushdown"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Juni",
+      "gender": "female",
+      "debutGame": "Alpha",
+      "archetype": [
+        "rushdown"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Juri",
+      "gender": "female",
+      "debutGame": "SF4",
+      "archetype": [
+        "rushdown",
+        "resource"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "Kage",
+      "gender": "male",
+      "debutGame": "SF5",
+      "archetype": [
+        "shoto",
+        "glass-canon",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Karin",
+      "gender": "female",
+      "debutGame": "Alpha",
+      "archetype": [
+        "footsies"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Ken",
+      "gender": "male",
+      "debutGame": "SF1",
+      "archetype": [
+        "shoto",
+        "rushdown"
+      ],
+      "appearances": 7
+    },
+    {
+      "name": "Kimberly",
+      "gender": "female",
+      "debutGame": "SF6",
+      "archetype": [
+        "rushdown",
+        "resource",
+        "setplay",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Kolin",
+      "gender": "female",
+      "debutGame": "SF5",
+      "archetype": [
+        "footsies"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Laura",
+      "gender": "female",
+      "debutGame": "SF5",
+      "archetype": [
+        "grappler",
+        "setplay"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Lily",
+      "gender": "female",
+      "debutGame": "SF6",
+      "archetype": [
+        "grappler",
+        "resource"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Lucia",
+      "gender": "female",
+      "debutGame": "SF5",
+      "archetype": [
+        "rushdown",
+        "footsies"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Luke",
+      "gender": "male",
+      "debutGame": "SF5",
+      "archetype": [
+        "footsies",
+        "rushdown"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "M. Bison",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "pressurer"
+      ],
+      "appearances": 4
+    },
+    {
+      "name": "Maki",
+      "gender": "female",
+      "debutGame": "Alpha",
+      "archetype": [
+        "rushdown",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Makoto",
+      "gender": "female",
+      "debutGame": "SF3",
+      "archetype": [
+        "rushdown",
+        "brawler",
+        "mix-up"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Manon",
+      "gender": "female",
+      "debutGame": "SF6",
+      "archetype": [
+        "grappler",
+        "resource"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Marisa",
+      "gender": "female",
+      "debutGame": "SF6",
+      "archetype": [
+        "brawler",
+        "dominator"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Menat",
+      "gender": "female",
+      "debutGame": "SF5",
+      "archetype": [
+        "zoner",
+        "setplay",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Nash",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "rushdown",
+        "footsies"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Necalli",
+      "gender": "male",
+      "debutGame": "SF5",
+      "archetype": [
+        "rushdown",
+        "brawler"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Necro",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "footsies"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Oni",
+      "gender": "male",
+      "debutGame": "SF4",
+      "archetype": [
+        "shoto",
+        "rushdown"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Oro",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "zoner",
+        "setplay",
+        "mix-up"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Poison",
+      "gender": "female",
+      "debutGame": "SF4",
+      "archetype": [
+        "footsies",
+        "pressurer",
+        "setplay"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Q",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "brawler",
+        "turtle"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "R. Mika",
+      "gender": "female",
+      "debutGame": "Alpha",
+      "archetype": [
+        "grappler"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Rashid",
+      "gender": "male",
+      "debutGame": "SF5",
+      "archetype": [
+        "rushdown",
+        "mix-up",
+        "setplay"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Remy",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "zoner"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Rolento",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "rushdown",
+        "mix-up"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Rose",
+      "gender": "female",
+      "debutGame": "Alpha",
+      "archetype": [
+        "zoner",
+        "setplay"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "Rufus",
+      "gender": "male",
+      "debutGame": "SF4",
+      "archetype": [
+        "rushdown"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Sagat",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "zoner"
+      ],
+      "appearances": 4
+    },
+    {
+      "name": "Sakura",
+      "gender": "female",
+      "debutGame": "Alpha",
+      "archetype": [
+        "shoto",
+        "rushdown"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "Sean",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "rushdown"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Seth",
+      "gender": "other",
+      "debutGame": "SF4",
+      "archetype": [
+        "rushdown",
+        "setplay"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Shin Akuma",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "shoto",
+        "glass-canon"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "Sodom",
+      "gender": "male",
+      "debutGame": "Alpha",
+      "archetype": [
+        "grappler"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "T. Hawk",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "grappler"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "Twelve",
+      "gender": "other",
+      "debutGame": "SF3",
+      "archetype": [
+        "rushdown",
+        "footsies"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Urien",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "rushdown",
+        "mix-up",
+        "setplay"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Vega",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "footsies",
+        "rushdown"
+      ],
+      "appearances": 4
+    },
+    {
+      "name": "Violent Ken",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "shoto",
+        "glass-canon"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Yang",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "rushdown",
+        "mix-up"
+      ],
+      "appearances": 2
+    },
+    {
+      "name": "Yun",
+      "gender": "male",
+      "debutGame": "SF3",
+      "archetype": [
+        "rushdown",
+        "mix-up"
+      ],
+      "appearances": 3
+    },
+    {
+      "name": "Zangief",
+      "gender": "male",
+      "debutGame": "SF2",
+      "archetype": [
+        "grappler"
+      ],
+      "appearances": 5
+    },
+    {
+      "name": "Zeku",
+      "gender": "male",
+      "debutGame": "SF5",
+      "archetype": [
+        "rushdown",
+        "stance",
+        "mix-up"
+      ],
+      "appearances": 1
+    },
+    {
+      "name": "Ryu",
+      "gender": "male",
+      "debutGame": "SF1",
+      "archetype": [
+        "shoto",
+        "resource"
+      ],
+      "appearances": 7
+    }
+  ]
+}
